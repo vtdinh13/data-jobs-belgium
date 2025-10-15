@@ -8,15 +8,13 @@ import utils
 from datetime import datetime
 import plotly.express as px
 from streamlit_dynamic_filters import DynamicFilters
+from pathlib import Path
 
+BASE = Path(__file__).resolve().parent
+jobs_df = pd.read_csv(BASE.parent/'data'/'jobs_final.csv')
+skills_df = pd.read_csv(BASE.parent/'data'/'skills.csv')
 
 st.set_page_config(layout="wide")
-
-
-
-jobs_df = pd.read_csv('../data/jobs_final.csv')
-skills_df = pd.read_csv('../data/skills.csv')
-
 
 # ---------------------------
 # 2) SIDEBAR FILTERS
