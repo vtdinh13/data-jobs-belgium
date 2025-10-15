@@ -1,0 +1,267 @@
+Job Title,skill_name,category,types_of_tools_or_technologies,evidence
+Data Scientist,Data Analysis,hard,['statistical methods'],apply statistical methods for data analysis and insight generation.
+Data Scientist,Machine Learning,hard,"['machine learning models', 'ai models']",facilitate training and deployment of machine learning and ai models.
+Data Scientist,Python,hard,['programming languages'],"proficiency in python, with optional knowledge in c++ and r."
+Data Scientist,Statistical Analysis And Modelling,hard,['theoretical and practical knowledge'],strong theoretical and practical knowledge of statistics.
+Data Scientist,Communication,soft,[],"candidates with strong communication, teamwork, organizational skills, and problem-solving ability will thrive in this role."
+Data Scientist,Collaboration,soft,[],"candidates with strong communication, teamwork, organizational skills, and problem-solving ability will thrive in this role."
+Data Scientist,Problem Solving,soft,[],"candidates with strong communication, teamwork, organizational skills, and problem-solving ability will thrive in this role."
+Data Scientist,Organizational Skills,soft,[],"candidates with strong communication, teamwork, organizational skills, and problem-solving ability will thrive in this role."
+Data Scientist,Algorithm Development And Tuning,hard,['algorithms'],algorithm development and time series analysis.
+Data Scientist,Time Series Analysis,hard,['analysis techniques'],algorithm development and time series analysis.
+Internship,Data Analysis,hard,,"in verschillende datarollen, ontdek je meerdere bedrijven"
+Internship,Communication,soft,,"je communiceert helder, durft je mening te geven"
+Internship,Curiosity,soft,,je bent nieuwsgierig. je staat open voor het onbekende
+Internship,Problem Solving,soft,,probleemoplossend denken en een kritische blik: daar gaan we op aan
+Internship,Leadership,soft,,"data leren combineren met leiderschap, communicatie en zelfinzicht? yes please."
+Internship,Excel,hard,,excel voelt vertrouwd
+Internship,Python,hard,,"geëxperimenteerd met python, sql of power bi"
+Internship,Sql,hard,,"geëxperimenteerd met python, sql of power bi"
+Internship,Empathy,soft,,"empathie, lef, probleemoplossend denken en een kritische blik: daar gaan we op aan"
+Internship,Growth Mindset,soft,,maar een groeimindset is wel een must
+Data Analyst,Qlikview,hard,,"familiarity with qlikview, qlik sense, or other similar bi tools (e.g., power bi, tableau)"
+Data Analyst,Sql,hard,,strong analytical mindset and basic sql/data querying skills
+Data Analyst,Data Analysis,hard,,"assist in the analysis, documentation, and validation of business and reporting requirements."
+Data Analyst,Data Visualization,hard,,"prepare and maintain reports, data models, and visualizations based on business needs."
+Data Analyst,Communication,soft,,strong communication and documentation skills in english; dutch is a plus.
+Data Analyst,Project Management,soft,,"experience working in a structured, project-based environment."
+Data Analyst,Collaboration,soft,,"collaborate with senior analysts, developers, and business stakeholders to support the modernization of the analytics environment."
+Data Analyst,Data Quality Assessment And Optimization,hard,,help monitor and assess the quality and performance of current bi solutions.
+Data Analyst,Data Modelling,hard,,understanding of data modelling concepts or etl processes.
+Data Analyst,Etl,hard,,understanding of data modelling concepts or etl processes.
+Data Analyst,Power Bi,hard,['Power BI'],grondige kennis van power bi (dashboardcreatie)
+Data Analyst,Excel,hard,['Excel'],gevorderde excel-vaardigheden
+Data Analyst,Data Visualization,hard,[],ervaring in het visualiseren en communiceren van datainsights
+Data Analyst,Communication,soft,[],uitstekende communicatievaardigheden in nederlands en engels
+Data Analyst,Sql,hard,['SQL'],kennis van power query en/of sql voor datamodellering
+Data Analyst,Analytical Skills,soft,[],sterke analytische vaardigheden en een passie voor data-driven problem solving
+Data Analyst,Hands-On Mindset,soft,[],een hands-on en pragmatische ingesteldheid
+Data Analyst,Project Management,soft,[],capaciteit om meerdere projecten te managen
+Data Analyst,Continuous Improvement,soft,[],met een mindset gericht op continue verbetering
+Data Analyst,Azure Data Lake,hard,['Azure Data Lake'],ervaring met azure data lake of databricks
+Data Analyst,Data Forecasting,hard,[],ervaring met time-series data en forecasting
+Data Analyst,Power Bi,hard,['Power BI'],développer et maintenir des dashboards power bi
+Data Analyst,Power Query,hard,['Power Query'],modéliser et transformer les données (power query)
+Data Analyst,Python,hard,['Python'],"analyser les données (python)
+"
+Data Analyst,Sql,hard,['SQL'],"analyser les données (sql)
+"
+Data Analyst,R,hard,['R'],"analyser les données (r)
+"
+Data Analyst,Analytical Skills,soft,[],esprit analytique & bon communicant
+Data Analyst,Communication,soft,[],esprit analytique & bon communicant
+Data Analyst,Data Analysis,hard,"Excel, Python, database management",experience in data analysis with excel. additional coding in python or database management experience is considered a bonus.
+Data Analyst,Report Writing,hard,,write reports and policy briefings that detail impacts of policy options on the eu battery industry and its value chains.
+Data Analyst,Quantitative Analytical Tools,hard,,apply appropriate quantitative analytical tools and techniques
+Data Analyst,Communication,soft,,"excellent communication and presentation skills and an ability to write in english fluently, accurately and concisely."
+Data Analyst,Presentation Skills,soft,,present research findings internally and externally.
+Data Analyst,Project Management,hard,,project management experience including strong interpersonal and team-working skills and an ability to deliver to tight deadlines.
+Data Analyst,Interpersonal Skills,soft,,strong interpersonal and team-working skills
+Data Analyst,Initiative,soft,,the confidence to think and act with initiative
+Data Analyst,Policy Influencing,soft,,"to engage and influence policymakers of different stripes, industry representatives and other stakeholders at the highest level."
+Data Analyst,Quality Assurance,hard,,"review t&e analytical outputs to ensure a high degree of research, analysis, and argumentation."
+Data Scientist,Communication,soft,,you communicate fluently and can explain complex ideas clearly.
+Data Analyst,Flow Cytometry Data Analysis,hard,Technical Analysis,experience with flow cytometry with emphasis on data analysis is seen as advantage!
+Data Analyst,Data Entry,hard,Clinical Database,"data entry, resulting and release into clinical database"
+Data Analyst,Standard Operating Procedures (Sop) Drafting,hard,Document Review,draft and review standard operating procedures (sop)
+Data Analyst,Instrument Troubleshooting,hard,Technical Support,sophisticated instrument troubleshooting
+Data Analyst,Reagent Qualifications,hard,Testing Materials,reagent qualifications
+Data Analyst,Analytical Skills,soft,Problem Solving,ability to work under pressure and analytical mindset
+Data Analyst,Communication,soft,Interpersonal Skills,good communication skills are required
+Data Analyst,Problem Solving,soft,Critical Thinking,born problem solver with an eye for detail and customer oriented attitude
+Data Analyst,Excel,hard,Software,significant experience with microsoft excel is also preferred
+Data Analyst,"Flowjo, Winlist, Fcs Express",hard,Analysis Software,"experience in data analysis with winlist, flowjo, fcsexpress , etc. is preferred"
+Data Analyst,Data Analysis,hard,,door middel van data-analyse en visualisatie
+Data Analyst,Data Visualization,hard,,door middel van data-analyse en visualisatie
+Data Analyst,Data Collection,hard,,"je verzamelt, analyseert en interpreteert data uit verschillende bronnen"
+Data Analyst,Rapportage,hard,,je vertaalt data naar heldere rapporten en dashboards
+Data Analyst,Trendidentificatie,hard,,"je identificeert trends, patronen en verbeterkansen"
+Data Analyst,Kwaliteitscontrole,hard,,je waarborgt de kwaliteit en consistentie van data door middel van controles en validaties
+Data Analyst,Samenwerking,soft,,waar samenwerking en kennisdeling centraal staan
+Data Analyst,Communication,soft,,je werkt nauw samen met business stakeholders
+Data Analyst,Excel,hard,[],advanced excel and power bi skills are required
+Data Analyst,Power Bi,hard,[],advanced excel and power bi skills are required
+Data Analyst,Analytical Skills,hard,[],strong analytical skills
+Data Analyst,Data Interpretation,hard,[],analyzing and interpreting data
+Data Analyst,Data Translation,hard,[],ability to understand and translate complex data sets
+Data Analyst,Communication,soft,[],ability to explain technical concepts clearly to non-technical stakeholders
+Data Analyst,Adaptability,soft,[],you adapt fast and stay cool under pressure
+Data Analyst,Integrity,soft,[],"you’re all about integrity, positivism, and keeping it real"
+Data Analyst,Collaboration,soft,[],"we always work as a team, valuing every one of our team members"
+Data Analyst,Problem Solving,soft,[],you think outside of the container
+Data Engineer,Python,hard,"['data processing', 'pipeline development']",professional proficiency in python for data processing and pipeline development.
+Data Engineer,Cloud Database Solutions,hard,"['BigQuery', 'Snowflake', 'Databricks']","strong knowledge of cloud database solutions such as bigquery, snowflake, or databricks."
+Data Engineer,Microservice Architectures,hard,"['Kafka', 'Google Cloud Pub/Sub']",experience with microservice architectures and data streaming systems like kafka or google cloud pub/sub.
+Data Engineer,Data Pipeline Development,hard,['ETL/ELT pipelines'],building robust etl/elt pipelines to transform raw integrated data into trusted domains.
+Data Engineer,Data Quality,hard,['data monitoring tools'],establishing standards and monitoring the health of all foundational data assets.
+Data Engineer,Team Leadership,soft,['mentoring tools and techniques'],"build, lead, and mentor a high-performing team of data engineers, supporting their technical and professional growth."
+Data Engineer,Stakeholder Management,soft,[],excellent communication and stakeholder management skills.
+Data Engineer,Communication,soft,[],"fluency in english, with excellent communication and stakeholder management skills."
+Data Engineer,Problem Solving,soft,[],"a product engineering mindset, with a focus on understanding business context and working closely with stakeholders to solve their data challenges."
+Data Analyst,Data Processing,hard,,"je zal data verwerken, controleren en analyseren."
+Data Analyst,Data Analysis,hard,,"je zal data verwerken, controleren en analyseren."
+Data Analyst,Data Quality Assessment And Optimization,hard,,de datakwaliteit ga je optimaliseren.
+Data Analyst,Interdepartmental Support,soft,,je zal verschillende afdelingen gaan ondersteunen en optimaliseren.
+Data Analyst,Collaboration,soft,,"je zal het team gaan ondersteunen bij nominaties, balancering en aankopen"
+Data Scientist,Data Science,hard,[],data science manager to lead our data science focus area
+Data Scientist,Machine Learning,hard,[],"solid understanding of machine learning, ai, and statistical modeling"
+Data Scientist,Leadership,soft,[],"experience in data & analytics, with a strong focus on data science and leadership"
+Data Scientist,Communication,soft,[],strong communication skills and the ability to connect with both technical and business stakeholders
+Data Scientist,Business Acumen,soft,[],combine business acumen with technical insight to drive innovation
+Data Scientist,Project Management,hard,[],"take ownership of project outcomes, ensuring quality, innovation, and client satisfaction"
+Data Scientist,Statistical Analysis And Modelling,hard,[],"solid understanding of machine learning, ai, and statistical modeling"
+Data Scientist,Client Engagement,soft,[],engage with clients to understand their challenges and translate them into impactful data science solutions
+Data Scientist,Collaboration,soft,[],"inspire and support your team, recognizing people as key assets and fostering a collaborative culture"
+Data Scientist,Fluent In Dutch And/Or French,hard,[],"fluency in dutch and/or french, and professional english"
+Data Analyst,Data Visualization,hard,,"ontwikkelen en onderhouden van rapporten en dashboards in qlik sense, power bi of excel."
+Data Analyst,Data Management,hard,,"structureren en beheren van datasets, bruikbaar voor zowel rapportering als toekomstige ai-toepassingen."
+Data Analyst,Data Analysis,hard,,"vertalen van complexe businessvragen naar duidelijke, datagedreven inzichten."
+Data Analyst,Reporting,hard,,zorgen voor consistente en kwalitatieve rapportering binnen alle afdelingen.
+Data Analyst,Stakeholder Communication,soft,,"actieve ondersteuning bieden aan teamleiders, interne stakeholders en management met begrijpelijke en toegankelijke rapporten."
+Data Analyst,Collaboration,soft,,nauwe samenwerking met andere teams om databehoeften in kaart te brengen en oplossingen te implementeren.
+Data Analyst,Innovation,soft,,je houdt van innovatie en durft nieuwe technologieën te testen en toe te passen.
+Data Analyst,Problem Solving,soft,,je vertaalt hun noden in slimme dataproducten.
+Data Consultant,Power Bi,hard,,visualiseren in powerbi
+Data Consultant,Data Analysis,hard,,analyses opmaken adhv vragen uit de business
+Data Consultant,Data Retrieval,hard,,het verkrijgen van de juiste data uit de verschillende systemen om juiste analyses op te maken
+Data Consultant,Consulting,soft,,mogelijkheid tot werken als freelancer of als consultant
+Data Consultant,Flexibility,soft,,flexibele on site policy
+Data Consultant,Collaboration,soft,,interesse en goesting om in een kmo-omgeving aan de slag te gaan
+Data Scientist,Leadership,soft,,at least 1 year of experience in a leadership role
+Data Scientist,Communication,soft,,"excellent communication skills, with the ability to clearly communicate complex data science concepts to technical and non-technical stakeholders"
+Data Scientist,Statistical Analysis And Modelling,hard,,"strong experience in statistical modelling, machine learning, and data visualisation"
+Data Scientist,Machine Learning,hard,,"strong experience in statistical modelling, machine learning, and data visualisation"
+Data Scientist,Data Visualization,hard,,"strong experience in statistical modelling, machine learning, and data visualisation"
+Data Scientist,Relational Data Modelling,hard,,solid relational modelling (sql) and programming skills (preferably in python)
+Data Scientist,Python,hard,,solid relational modelling (sql) and programming skills (preferably in python)
+Data Scientist,Analytical Skills,soft,,strong analytical mindset and problem solving skills
+Data Scientist,Problem Solving,soft,,strong analytical mindset and problem solving skills
+Data Analyst,Sql,hard,,je hebt goede kennis en ervaring met sql.
+Data Analyst,Python,hard,,kennis van een programmeertaal zoals python is een pluspunt.
+Data Analyst,Data Analysis,hard,,"je verzamelt, analyseert en vertaalt de klantvraag naar zinvolle dataoplossingen."
+Data Analyst,Data Governance,hard,,"met focus op data-architectuur, datastrategie en -governance, datatransformatie, datafundamenten en meer."
+Data Analyst,Data Modelling,hard,,je hebt kennis en ervaring met databases en datamodellering.
+Data Analyst,Analytical Skills,soft,,"je beschikt over analytisch denkvermogen,"
+Data Analyst,Communication,soft,,communicatieve vaardigheden en een pragmatische ingesteldheid.
+Data Analyst,Collaboration,soft,,in een constructieve team omgeving.
+Data Analyst,Stakeholder Management,soft,,"strong track record in stakeholder management: ability to understand, challenge, prioritize, and sometimes reject requests."
+Data Analyst,Data Analysis,hard,,desire to work on data and/or business analytics and a strong understanding of business metrics.
+Data Analyst,Sql,hard,Data Warehouses,"knowledge of and experience with transforming and analyzing data, particularly in data warehouses using sql."
+Data Analyst,Data Integration,hard,ETL processes,data pipeline and etl knowledge - experience with data integration techniques and etl processes.
+Data Analyst,Data Visualization,hard,Power BI,experience in setting up reports and data visualization tools like power bi.
+Data Analyst,Communication,soft,,"excellent communication skills in english, both written and spoken (dutch is a nice-to-have)."
+Data Analyst,Analytical Skills,soft,,"demonstrated analytical strength, evident from your experiences."
+Data Analyst,Complex Information Systems Knowledge,hard,,experience with complex information systems and reporting environments.
+Data Analyst,Report Development,hard,,"create and refine reports and dashboards that remain user-friendly, aiding the business in making informed decisions."
+Data Analyst,Proactive Initiative,soft,,"take a proactive role in implementing new systems and technologies, ensuring our data strategies remain cutting-edge and align with organizational goals."
+Data Analyst,Ai,hard,"Machine Learning, Data Science",ai knowledge & interest to connect easily with our data scientist and machine learning engineers
+Data Analyst,English,soft,[],vloeiend in het Engels en Nederlands
+Data Analyst,Dutch,soft,[],vloeiend in het Engels en Nederlands
+Data Analyst,Research Skills,soft,[],uitstekende onderzoeksvaardigheden
+Data Analyst,Local Knowledge,soft,[],uitstekende lokale kennis van uw thuisland
+Data Analyst,Geography Knowledge,soft,[],goede begrip en algemene kennis van de geografie en cultuur van België
+Data Analyst,Analytical Skills,soft,[],analytische mindset
+Data Scientist,Python,hard,,basic knowledge of scripting/coding (python);
+Data Scientist,Lua,hard,,basic knowledge of scripting (lua);
+Data Scientist,Data Analysis,hard,,basic knowledge of biomedical data analysis;
+Data Scientist,Data Visualization,hard,,data visualisation (spotfire is a plus);
+Data Scientist,Statistical Analysis And Modelling,hard,,basic knowledge of statistics;
+Data Scientist,Machine Learning,hard,,"basic knowledge of machine learning (classification, regression, ...);"
+Data Scientist,Sql,hard,,basic knowledge of relational databases (sql) and queries;
+Data Scientist,Time Management,soft,,time management;
+Data Scientist,Problem Solving,soft,,problem identification;
+Data Scientist,Analytical Skills,soft,,analytical thinking;
+Data Analyst,Business Intelligence,hard,"Power BI, Power Automate, Power Apps, Azure",je hebt minstens 5 jaar ervaring in business intelligence.
+Data Analyst,Data Analysis,hard,"Excel, Microsoft Power Platform",je verzamelt en analyseert data uit diverse bronnen en systemen.
+Data Analyst,Data Visualization,hard,"Power BI, Power Apps",je vertaalt businessvragen naar duidelijke visualisaties.
+Data Analyst,Predictive Modeling,hard,BI-tools,je ontwikkelt voorspellende modellen en innovatieve bi-tools.
+Data Analyst,Team Leadership,soft,,je hebt ervaring met het aansturen van een team.
+Data Analyst,Communication,soft,,je communiceert vlot in het nederlands én engels.
+Data Analyst,Strategic Thinking,soft,,je bent strategisch ingesteld en weet hoe je inzichten overtuigend brengt.
+Data Analyst,Quality Assurance,hard,"Data storage systems, Azure",je zorgt voor kwaliteitsvolle data-opslag en -analyse (o.a. in azure)
+Data Analyst,Process Improvement,soft,,je signaleert en implementeert verbeteringen in data- en rapporteringsprocessen.
+Data Analyst,Technical Assistance,soft,[],provide technical assistance to our staff
+Data Analyst,It Support Supervision,hard,[],"supervise, monitor and benchmark the outsourced it functions"
+Data Analyst,Data Analysis,hard,"['Excel', 'SQL', 'Power BI', 'Qlik Sense']",proactively analyze data with an eye to improve business performance
+Data Analyst,Reporting,hard,"['Excel', 'Power BI', 'Qlik Sense']","create and maintain reports, dashboards and visualizations for key business metrics"
+Data Analyst,Collaboration,soft,[],collaborate with cross-functional teams to define data requirements
+Data Analyst,Application Management,hard,[],application management of several software suites and systems
+Data Analyst,Training,soft,[],"train staff on new technologies, best practices and security awareness"
+Data Analyst,Fluency In English,soft,[],"fluency in english, both written and spoken"
+Data Analyst,Attention To Detail,soft,[],eye for accuracy and detail
+Data Analyst,Flexibility,soft,[],flexible
+Data Engineer,Etl,hard,,bouw en onderhoud schaalbare en efficiënte etl- en elt-pipelines.
+Data Engineer,Data Lakes,hard,,optimaliseer data lakes en datawarehouses met oog voor performance en datakwaliteit.
+Data Engineer,Data Warehouses,hard,,optimaliseer data lakes en datawarehouses met oog voor performance en datakwaliteit.
+Data Engineer,Data Modelling,hard,,ontwerp robuuste datamodellen ter ondersteuning van analytics en machine learning.
+Data Engineer,Collaboration,soft,,"werk nauw samen met analisten, data scientists en diverse stakeholders."
+Data Engineer,Automation,hard,,automatiseer dataworkflows en draagt actief bij aan ci/cd-processen.
+Data Engineer,Cloud Platforms,hard,,"ervaring met cloudplatformen zoals azure, aws of gcp."
+Data Engineer,Azure Data Factory,hard,,"kennis van tools zoals azure data factory, databricks, spark of kafka."
+Data Engineer,Power Bi,hard,,"kennis van power bi of gelijkaardige visualisatietools, ervaring met machine learning workflows en relevante certificeringen zijn een troef."
+Data Engineer,Machine Learning Workflows,hard,,"kennis van power bi of gelijkaardige visualisatietools, ervaring met machine learning workflows en relevante certificeringen zijn een troef."
+Data Analyst,Data Analysis,hard,,significant experience (3+ years) in a data analysis role or equivalent experience gained through professional qualification
+Data Analyst,Programming,hard,,"desirable to have experience with data analysis programming languages & automated data management, including: visual basic, sql, r and/or python"
+Data Analyst,Dashboard Tools,hard,,desirable to have experience with dashboard and reporting tools e.g. tableau and google data studio
+Data Analyst,Training Experience,soft,,"experience designing and running trainings (in person or video conference), ideally cross-cultural"
+Data Analyst,Digital Literacy,hard,,"digital literacy skills; the ability to learn and utilise our digital platforms to successfully perform the role function (familiarity with g-suite, slack and zoom is an advantage)"
+Data Analyst,Data Management,hard,,"manage data collection, data cleaning, data munging, data tagging and other data preparation needed to deliver required reporting and analysis tasks"
+Data Analyst,Cross-Cultural Communication,soft,,experience working with multicultural teams and senior staff across borders
+Data Analyst,Time Management,soft,,"the ability to work effectively under tight deadlines and across time zones, with a flexible mindset"
+Data Analyst,Commitment To Diversity And Inclusion,soft,,"a commitment to equity, diversity, and inclusion in your communication and team-building efforts"
+Data Scientist,Python,hard,Programming Language,expert programming skills in python
+Data Scientist,Sql,hard,Database Query Language,expert programming skills in sql
+Data Scientist,Machine Learning,hard,"Data Science Frameworks, Algorithms",data science and machine learning problems
+Data Scientist,Data Processing,hard,Data Transformation,strong programming and data wrangling skills
+Data Scientist,Statistical Analysis And Modelling,hard,Statistical Concepts,"experience in applying statistical concepts (e.g. regressions, a/b tests, clustering, probability)"
+Data Scientist,Communication,soft,"Writing, Presentation",excellent communication and documentation skills
+Data Scientist,Collaboration,soft,Teamwork,ability to work collaboratively with cross-functional teams
+Data Scientist,Problem Solving,soft,Analytical Thinking,strong problem-solving skills with excellent communication
+Data Scientist,Data Visualization,hard,"Tableau, R-Shiny, Streamlit, Looker","familiarity with at least one visualization tool (e.g. tableau, r-shiny, streamlit, looker) "
+Data Scientist,Documentation,soft,Technical Writing,"document processes, code, and findings for future reference and knowledge sharing"
+Data Scientist,Python,hard,,"proficiency in python and its data science stack (pandas, scikit-learn, jupyter, luigi, etc.)"
+Data Scientist,Data Science,hard,,you’ll sharpen and expand your skills in data science and software engineering.
+Data Scientist,Data Processing,hard,,strong knowledge of data mining and machine learning.
+Data Scientist,Machine Learning,hard,,strong knowledge of data mining and machine learning.
+Data Scientist,Sql,hard,,"interfacing with diverse data sources via connector pipelines (sql, elasticsearch, kafka, rest apis, etc.)."
+Data Scientist,Communication,soft,,"communicating results to clients, gathering their feedback, and refining your work accordingly."
+Data Scientist,Algorithm Development And Tuning,hard,,tuning algorithms and data pipelines for optimal performance when required.
+Data Scientist,Code Quality,soft,,"a passion for writing clean, maintainable, and robust code."
+Data Scientist,Data Processing,hard,,"applying your data science expertise and the orise digital ai algorithms to real-world industrial or iot data: pre-processing, cleaning, training, and evaluating anomaly detection and predictive models..."
+Internship,Engineering,hard,"Automation, Mechanical, Mechatronic, Data Science, Chemical",engineering internship - automation/mechanical/mechatronic/data science/chemical
+Internship,Technical Curiosity,soft,,"bring qualities such as technical curiosity, creativity, innovation, initiative, strong communication, leadership, and teamwork"
+Internship,Creative Thinking,soft,,"bring qualities such as technical curiosity, creativity, innovation, initiative, strong communication, leadership, and teamwork"
+Internship,Communication,soft,,"bring qualities such as technical curiosity, creativity, innovation, initiative, strong communication, leadership, and teamwork"
+Internship,Leadership,soft,,"bring qualities such as technical curiosity, creativity, innovation, initiative, strong communication, leadership, and teamwork"
+Internship,Collaboration,soft,,"bring qualities such as technical curiosity, creativity, innovation, initiative, strong communication, leadership, and teamwork"
+Internship,Project Ownership,soft,,take full ownership of challenging projects
+Internship,Hands-On Experience,hard,Production floor operations,gain hands-on experience on the production floor
+Internship,Problem Solving,soft,,you will play a vital role in ensuring that our products are manufactured to the highest standards of quality and efficiency
+Data Scientist,Python,hard,"AI, Data",sterke kennis van python (zowel ai als data)
+Data Scientist,Sql,hard,"Datamodellering, Rapportering","datamodellering (sql, dbt)"
+Data Scientist,"Ai (Llms, Prompting, Agents, Vector Search)",hard,AI,"kennis van of interesse in: ai: llms, prompting, agents, vector search"
+Data Scientist,Etl/Elt,hard,Data,"data: sql, etl/elt, datamodellering"
+Data Scientist,Data Modelling,hard,"Data, SQL, DBT","datamodellering (sql, dbt)"
+Data Scientist,Curiosity,soft,,"nieuwsgierig, leergierig en oplossingsgericht"
+Data Scientist,Communication,soft,,communicatief sterk en graag samenwerkend in teamverband
+Data Scientist,Collaboration,soft,,graag samenwerkend in teamverband
+Data Scientist,English,soft,,vloeiend in nederlands en engels (kennis van frans is een plus)
+Data Scientist,Azure Cloud,hard,Cloud Computing,"werken met azure cloud, terraform, github & devops"
+Data Scientist,Machine Learning,hard,AI methods,expertise in machine learning and ai methods.
+Data Scientist,Data Visualization,hard,training programs,"design and develop training programs on data science and ai topics, including machine learning algorithms, data visualization, and statistical analysis."
+Data Scientist,Statistical Analysis And Modelling,hard,data analysis tools,"design and develop training programs on data science and ai topics, including machine learning algorithms, data visualization, and statistical analysis."
+Data Scientist,Programming,hard,"coding languages, software tools","provide foundational sessions about programming, data processing, model evaluation, and ethical considerations in ai."
+Data Scientist,Data Processing,hard,data analysis tools,"provide foundational sessions about programming, data processing, model evaluation, and ethical considerations in ai."
+Data Scientist,Communication,soft,none mentioned,"excellent communication and collaboration skills, particularly in english."
+Data Scientist,Collaboration,soft,none mentioned,"excellent communication and collaboration skills, particularly in english."
+Data Scientist,Organizational Skills,soft,none mentioned,strong organizational skills and the ability to manage stakeholders effectively.
+Data Scientist,Feedback Analysis,soft,none mentioned,collect and analyze feedback to continuously improve training programs.
+Data Analyst,Data Analysis,hard,,turning raw data into actionable insights
+Data Analyst,Data Extraction,hard,,data extraction from data warehouses and operational systems
+Data Analyst,Data Transformation,hard,,experience with python for data transformation and analysis
+Data Analyst,Data Modelling,hard,,"data modelling, dax, dashboard development"
+Data Analyst,Workflow Automation,hard,,power automate (workflow automation)
+Data Analyst,Application Development,hard,,powerapps (basic application development and support)
+Data Analyst,Data Governance,hard,,"solid understanding of data governance, quality, and security principles"
+Data Analyst,Problem Solving,soft,,strong problem-solving skills and attention to detail
+Data Analyst,Organizational Skills,soft,,excellent organizational skills with the ability to work on different topics simultaneously
