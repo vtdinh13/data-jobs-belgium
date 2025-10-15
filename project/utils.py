@@ -54,6 +54,8 @@ def color_func(word, font_size, position, orientation, random_state=None, **kwar
     return random.choice(palette)
 
 ####
+BASE = Path(__file__).resolve().parent
+oval_path = BASE / 'oval.png'
 
 ## Visualizations
 def create_jobs_wc(df: pd.DataFrame):
@@ -63,7 +65,7 @@ def create_jobs_wc(df: pd.DataFrame):
     comp_names['Company Name'] = comp_names['Company Name'].map(vib_map).fillna(comp_names['Company Name'])
     comp_count = dict(zip(comp_names['Company Name'], comp_names['count']))
 
-    mask = np.array(Image.open('oval.png'))
+    mask = np.array(Image.open(oval_path))
 
     wc = WordCloud(width=400, height=400, background_color='white', 
                    mask=mask, contour_width=1, contour_color='white',
