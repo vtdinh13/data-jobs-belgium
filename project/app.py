@@ -14,7 +14,10 @@ BASE = Path(__file__).resolve().parent
 jobs_df = pd.read_csv(BASE.parent/'data'/'jobs_final.csv')
 skills_df = pd.read_csv(BASE.parent/'data'/'skills.csv')
 
-st.set_page_config(layout="wide")
+st.set_page_config(
+    page_title = 'Data Job Search'
+    page_icon = '🇧🇪',
+    layout="wide")
 
 # ---------------------------
 # 2) SIDEBAR FILTERS
